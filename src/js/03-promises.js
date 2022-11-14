@@ -75,3 +75,6 @@ createPromise(i, timeDelay)
 
 // Notiflix.Notify.success - успех
 // Notiflix.Notify.failure - неудача
+// Первая задержка
+// Шаг задержки
+// Количество
